@@ -2,6 +2,28 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Shopfinda", 
+    "thumb": "shopfinda/thumb.png", 
+    "desc": "Shopfinda makes it easy to find shops near you and to keep updated with their new products and specials. Follow your local shops to receive a weekly newsletter and favourite the products that you love", 
+    "url": "http://shopfinda.com", 
+    "info": "http://info.shopfinda.com",
+    "submitter": "harmony207",
+    "submissionDate": "2015-07-23", 
+    "tags": [
+      "Production",
+      "Productivity",
+      "Animations", 
+      "Local Storage", 
+      "jQuery",
+      "SASS",
+      "HTML5",
+      "Google Maps",
+      "PHP",
+      "Rest",
+      "Geolocation API"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
